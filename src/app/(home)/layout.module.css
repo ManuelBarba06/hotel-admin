@@ -1,0 +1,9 @@
+.side_menu_container {
+    background-color: var(--principal-color);
+}
+
+
+.side_menu_container a:hover {
+    cursor: pointer;
+    background-color: var(--principal-color-hover);
+}

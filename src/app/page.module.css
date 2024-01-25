@@ -1,0 +1,16 @@
+.container_left {
+    background-color: var(--principal-color);
+}
+
+.container_left h1 {
+    color: white;
+    font-weight: 700;
+    font-size: 4vw;
+    text-align: center;
+}
+
+.login {
+    background-color: var(--principal-color);
+    color: white;
+    font-weight: 700;
+}
